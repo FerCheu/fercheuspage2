@@ -1,0 +1,31 @@
+.titulo{
+    background: lightgray;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+    color: black;
+    border-bottom: 3px dashed black;  /* dashed es la forma del borde*/
+}
+
+footer{
+    background: lightgray;
+    color: black;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+
+}
+
+.formulariocontacto{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+nav ul li{
+    float:left;
+    list-style: none; /* esto sirve para que las listas no tengan esos puntos*/
+    margin: 10px; /* margin es para cuanto espacio de distancia estan las cosas*/
+    line-height: 30px;     /*esto es para centrar los enlaces del menu*/
+}
